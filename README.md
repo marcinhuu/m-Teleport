@@ -13,3 +13,6 @@ A teleport system that you can create multiple zones in, and is blocked by playe
 # Features
 - Multiple locations
 - Lock by license
+
+# Requirements
+- None, drag & drop
