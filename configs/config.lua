@@ -10,6 +10,7 @@ Config.Utility = {
 
 Config.Licenses = { -- Your licenses
     { license = "license:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"},
+    -- You can add more 
 }
 
 Config.Teleports = {
