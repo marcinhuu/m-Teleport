@@ -2,6 +2,8 @@
 
 | If you are intested in recieving updates join the community on **[Discord](https://discord.gg/svmzYehU8R)**! |
 
+A teleport system that you can create multiple zones in, and is blocked by player license's.
+
 # About
 - Optimized
 - Many Features
