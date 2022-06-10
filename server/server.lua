@@ -13,7 +13,7 @@ QBCore.Functions.CreateCallback("m-Teleport:Server:Pode", function(source, cb)
                 cb(false)
             end
         end
-    elseif Config.Utility.Check == "license" then
+    elseif Config.Utility.Check == "citizenid" then
         for i, v in pairs(Config.CitizenID) do
             if v.citizenid == citizenid then
                 cb(true)
